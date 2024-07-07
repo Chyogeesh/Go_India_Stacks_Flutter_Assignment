@@ -1,0 +1,11 @@
+
+### Step 10: Push to GitHub
+
+1. Initialize a new Git repository and push your code:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/yourusername/weather_app.git
+git push -u origin main
